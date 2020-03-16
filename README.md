@@ -10,7 +10,7 @@ My works related to Reason, also known as ReasonML, a syntax extension and toolc
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="reason.png" height="150"> 
+<img src="reason.png" height="110"> 
 Reason, also known as ReasonML, is a syntax extension and toolchain for OCaml created by Jordan Walke at Facebook. Reason offers a syntax familiar to JavaScript programmers, and transpiles to OCaml. Statically typed Reason (or OCaml) code may be compiled to dynamically typed JavaScript using the BuckleScript compiler.
 <br /><br />
 The Reason community officially provides ReasonReact as a solution for React based web applications
